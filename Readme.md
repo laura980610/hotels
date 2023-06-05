@@ -9,7 +9,7 @@
 *Paso a paso de despliegue en local para la aplicación de prueba para desarrollador php**.
 ## Tabla de contenidos:
 ---
-<p align="center"> 1.Clonar carpeta principal</p>
+<p align="center"> 1.Clonar carpeta principal https://github.com/laura980610/hotels.git</p>
 <p align="center"> 2.Abrir la carpeta api en un IDE (preferiblemente visual studio code: instalación = https://www.youtube.com/watch?v=s47z_qh16j4)l</p>
 <p align="center"> 3.En visual studio code instalar las siguientes extensiones</p>
 <p align="center">-ES7+ React/Redux/React-Native snippets</p>
@@ -23,3 +23,5 @@
  <p align="center">9.En la terminal ingrese a la carpeta 'front'</p>
  <p align="center"> -Ejecute el comando 'npm start'</p>
  <p align="center"> 10.En la siguiente url podrá ingresar al aplicativo = http://localhost:8000/api/hotels</p>
+
+
